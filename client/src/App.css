@@ -1,0 +1,18 @@
+
+  .addcours{ width: 403px;margin-left: 380px ;margin-top: 50px;padding: 50px;}
+  .styleadd{ margin: 150px ;background-color: #007bff;width: 400px; background-image: url(https://images-platform.99static.com/ak8GjXUhsuZmv0cdGPdEotUK5dw=/150x150:1350x1350/500x500/top/smart/99designs-contests-attachments/94/94788/attachment_94788434)}
+  
+  .card-container{ width: 380px;
+  height: 770px;
+    border-radius: 20px;
+    margin: 20px;
+  
+    display: flex;
+    justify-content: space-around;
+  }
+  h1{color: white;}
+  .btn{width: 375px;}
+  .style{ margin: 150px;width: 400px;background-image: url(https://images-platform.99static.com/ak8GjXUhsuZmv0cdGPdEotUK5dw=/150x150:1350x1350/500x500/top/smart/99designs-contests-attachments/94/94788/attachment_94788434)}
+  .addcour{width: 603px;margin-left: 340px ;margin-top: 20px;padding: 100px;}
+  
+  .description{display: flex; flex-direction: column; margin: 50px;}
